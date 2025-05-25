@@ -64,6 +64,6 @@ Create a simple WordPress plugin called **"Quick Notes"**. The plugin should all
 ## Submission Instructions
 1. **Fork this repository**.
 2. Complete the assignment in your forked repository.
-3. Once finished, send a link to your forked repository via email to **max@sylla.co.il**.
+3. Once finished, send a link to your forked repository via email to **elad@webacademix.co.il**.
 
 Good luck!
